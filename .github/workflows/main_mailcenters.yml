@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mailcenters'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_988C75F1C4884235977BF1B7B013A212 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B39E5891BBDC40C3B102834769999E89 }}
